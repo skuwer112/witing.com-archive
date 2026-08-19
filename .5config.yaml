@@ -1,0 +1,7 @@
+# Put your Writing.com credentials here
+username: YOUR_USERNAME
+password: YOUR_PASSWORD
+
+name_in_archive: True
+index_html_generation: True
+premium: False
